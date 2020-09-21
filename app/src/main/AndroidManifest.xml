@@ -5,7 +5,7 @@
     <application
         android:icon="@mipmap/both"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/both"
+        android:roundIcon="@mipmap/tan"
         android:theme="@style/GPTheme">
 
         <activity
